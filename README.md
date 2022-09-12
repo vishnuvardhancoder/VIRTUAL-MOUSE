@@ -1,2 +1,2 @@
 # VIRTUAL-MOUSE
-Simple virtual mouse 
+Simple virtual mouse using python library - openCV
