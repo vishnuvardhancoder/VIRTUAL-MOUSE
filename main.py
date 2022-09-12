@@ -1,4 +1,5 @@
 import cv2
+#mediapipe library provides ML solutions for computer vision tasks.
 import mediapipe as mp
 import pyautogui
 # cv2 for opening camera
