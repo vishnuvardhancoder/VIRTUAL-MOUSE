@@ -38,5 +38,6 @@ while True:
                         pyautogui.click()
                         pyautogui.sleep(1)
                         print('click')
+#     imshow is to display the result
     cv2.imshow('Virtual Mouse', frame)
     cv2.waitKey(1)
